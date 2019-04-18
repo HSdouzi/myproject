@@ -9,3 +9,4 @@
 /dev/mapper/centos-root /                       xfs     defaults        0 0
 UUID=d3e34fdf-2e90-48b8-88a2-3366b3e7ac98 /boot                   xfs     defaults        0 0
 /dev/mapper/centos-swap swap                    swap    defaults        0 0
+111112222
